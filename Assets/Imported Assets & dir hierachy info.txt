@@ -1,0 +1,50 @@
+Imported Asset & dir hierachy info
+
+
+1. Pro Camera 2D
+/ dir : Assets > Gizmos
+        Assets > ProCamera2D
+/ for : 카메라 제어
+/ url : https://assetstore.unity.com/packages/tools/camera/pro-camera-2d-the-definitive-2d-2-5d-unity-camera-plugin-42095
+
+
+2. Editor Console Pro
+/ dir : Assets > Plugins > ConsolePro
+/ for : 콘솔 정보와 C# 코드 확인 용이
+/ url : https://assetstore.unity.com/packages/tools/utilities/editor-console-pro-11889
+
+
+3. DOTween
+/ dir : Assets > Plugins > Demigiant
+        Assets > Plugins > Resources
+/ for : 각종 움직임 구현.(ex.선비의 수플렉스, Enemy의 Knockout 바운싱 등)
+/ url : https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
+
+
+4. Button Sequence Detector
+/ dir : Assets > Plugins > LeoLuz
+/ for : 각종 커맨드 입력 제어 용이 (ex.파동권)
+/ url : https://assetstore.unity.com/packages/templates/systems/button-sequence-detector-combos-111095
+
+
+5. Platformer Animation Pack
+/ dir : Assets > Plugins > Platformer Animation Pack
+/ for : 플랫포머 Animation dummy dot sprite
+/ url : https://assetstore.unity.com/packages/2d/characters/platformer-animation-pack-37075
+
+
+6. Stylized Melee Pack 1
+/ dir : Assets > Plugins > EffectCore
+/ for : 근접공격 이펙트 
+/ url : https://assetstore.unity.com/packages/vfx/particles/stylized-melee-pack-1-80637
+
+7. Pro Sound Collection
+/ dir : Assets > Plugins > Gamemaster Audio - Pro Sound Collection
+/ for : 각종 Effect Sound
+/ url : https://assetstore.unity.com/packages/audio/sound-fx/pro-sound-collection-50235
+
+8. Behavior Designer - Behavior Trees for Everyone
+/ dir : Assets > Behavior Designer
+               > Gizmos
+/ for : Enemy A.I. 작성용
+/ url : https://assetstore.unity.com/packages/tools/visual-scripting/behavior-designer-behavior-trees-for-everyone-15277
